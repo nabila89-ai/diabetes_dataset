@@ -220,7 +220,7 @@ classification_report = classification_report(y_test,y_pred)
 print (classification_report) 
 ```
 ![Alt text](image-3.jpeg)
-
+Hasil pengujian yang diperoleh menggunakan metode confusion matrix pada model yang dibuat menggunakan algoritma Support Vector Machine yang memberikan hasil nilai accuracy 77%, precission 78%, recall 91%, dan F1-SCORE 84%
 ## Deployment
 [diabetes dataset app](https://diabetesdataset-grporgxltezrwvkzndhseh.streamlit.app/)
 ![Alt text](image-4.png)
